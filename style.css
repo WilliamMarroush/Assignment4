@@ -1,0 +1,42 @@
+body{
+    position:center;
+    background-color:darkslategray;
+    font-family:'Courier New', Courier, monospace;
+}
+#redbutton{
+    width:50%;
+    background-color:red;
+}
+#bluebutton{
+    width:50%;
+    background-color:cornflowerblue;
+}
+#redwins{
+    color:red;
+    font-size:20;
+}
+#bluewins{
+    color:cornflowerblue;
+    font-size:20;
+}
+#fightingtitle{
+    color:lightcoral;
+    font-size:50;
+}
+
+#anti-hover{
+    margin:100px;
+}
+
+#textboxes{
+    color:green;
+    font-size:50;
+}
+
+#radsubmit{
+    background-color:coral;
+    outline-style:none;
+}
+#results{
+    color:coral;
+}
